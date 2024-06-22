@@ -1,5 +1,6 @@
 # Hotel-Management-Project-Django
 https://github.com/hkharsharaju/Hotel-Management-Project-Django/assets/138602401/e59233ff-b870-45e3-8909-2576a4e435c7
+
 Hotel Reservation Management is a Django-based web application designed to streamline the process of booking hotel rooms. The application includes user authentication, admin verification, and a secure booking system to ensure a seamless experience for both users and administrators.
 
 ## Features
